@@ -1,8 +1,9 @@
-function App() {
+import Routes from "./routes"
 
+function App() {
   return (
-    <div className="bg-red-500">
-      Hello World!
+    <div className="font-nunito">
+      <Routes />
     </div>
   )
 }
