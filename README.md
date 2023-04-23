@@ -1,4 +1,4 @@
-# EcoElevate
+# GreenAlly
 
 ## 💡 Inspiration
 
@@ -6,7 +6,7 @@ The problem addressed by these initiatives is the negative impact of human activ
 
 ## 💻 What it does
 
-On EcoElevate users can:
+On GreenAlly users can:
 
 - Daily tips for sustainable living.
 - Calculate their carbon footprint for free.
@@ -39,7 +39,7 @@ On EcoElevate users can:
 - I learned how to use Firebstore DB.
 - I learned how to create a Full Stack web application.
 
-## 🚀 What's next for EcoElevate
+## 🚀 What's next for GreenAlly
 
 - More rewards for donating items.
 - I want to add more features to the items page

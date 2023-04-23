@@ -51,7 +51,7 @@ export default function Navbar() {
 
                     <a className="cursor-pointer">
                         <h3 className="text-4xl font-medium text-white">
-                            EcoElevate
+                            GreenAlly
                         </h3>
                     </a>
                 </div>
