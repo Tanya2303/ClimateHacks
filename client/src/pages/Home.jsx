@@ -10,7 +10,7 @@ export default function Home() {
         <div className='md:grid md:grid-cols-2 items-center px-36 py-8'>
           <div className='text-white'>
             <h1 className='text-3xl md:text-6xl'>About Us</h1>
-            <p className='text-xl md:text-2xl py-4 tracking-wider'></p>
+            <p className='text-xl md:text-2xl py-4 tracking-wider text-justify'>The problem addressed by these initiatives is the negative impact of human activities on the environment, particularly through the emission of greenhouse gases and the consumption of non-renewable resources. By providing daily tips for sustainable living and a free tool to calculate their carbon footprint, people can become more aware of their impact on the environment and take action to reduce it. </p>
 
           </div>
           <div className="grid place-items-center py-4 drop-shadow-3xl shadow-black">

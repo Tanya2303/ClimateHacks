@@ -70,6 +70,10 @@ export default function Navbar() {
                     <Link to="/carbon">
                         <span className="inline-flex w-auto px-3 py-2 rounded hover:bg-tertiary cursor-pointer text-white">Carbon Footprint Calculator</span>
                     </Link>
+
+                    <Link to="/dailytips">
+                        <span className="inline-flex w-auto px-3 py-2 rounded hover:bg-tertiary cursor-pointer text-white">Daily Tips</span>
+                    </Link>
                 </div>
 
                 <NavLink className="flex items-center space-x-5 md:flex" to="/login" onClick={logoutUser}>
